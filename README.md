@@ -19,3 +19,5 @@ https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160
 
 👉 DATASET USED FOR PROJECT 👈
 https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9
+
+LinkedIn Profile - https://www.linkedin.com/in/amar-kahvedzic-20a02414a/
