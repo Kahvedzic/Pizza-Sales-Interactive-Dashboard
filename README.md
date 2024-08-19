@@ -12,7 +12,7 @@ Here's a fun interactive dashboard created for pizza sales
 2nd dashboard will include:
 - Top 5/bottom pizzas by revenue
 - Top 5/bottom 5 pizzas sold by pizzas sold
-- Top 5/ bottom 5 pizzas by total orders
+- Top 5/bottom 5 pizzas by total orders
 
  👉 CLICK LINK FOR TABLEAU PROJECT 👈
 https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1
