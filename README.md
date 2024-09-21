@@ -2,6 +2,13 @@
 
 Here's a fun interactive dashboard created for pizza sales
 
+The 5 KPI's tracked:
+- Total revenue
+- Average order value
+- Total pizzas sold
+- Total orders
+- Average pizza per order
+
 1st dashboard will include:
 - Hourly trend for total pizzas sold
 - Weekly trend for total orders
