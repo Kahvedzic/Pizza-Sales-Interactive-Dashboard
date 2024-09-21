@@ -1,4 +1,4 @@
-# Pizza-Sales-Interactive-Dashboard
+# Pizza Sales Interactive Dashboard (Tableau)
 
 Here's a fun interactive dashboard created for pizza sales
 
