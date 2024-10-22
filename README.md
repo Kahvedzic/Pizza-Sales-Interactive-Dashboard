@@ -28,9 +28,9 @@ The pizza sales company sells 4 different styles of pizza (VEGGIE | CHICKEN | SU
 * Total orders & pizzas sold by pizza category
 
 # 2nd dashboard will include:
-* Top 5/bottom pizzas by revenue
-* Top 5/bottom 5 pizzas sold by pizzas sold
-* Top 5/bottom 5 pizzas by total orders
+* Top 5 & bottom 5 pizzas by revenue
+* Top 5 & bottom 5 pizzas sold by pizzas sold
+* Top 5 & bottom 5 pizzas by total orders
 
 Interactive dashboard can be found again [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
