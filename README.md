@@ -32,3 +32,6 @@ The 5 KPI's tracked:
 Interactive dashboard can be found again [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
 Dataset used for project can be found again [here](https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9)
+
+# Thank You
+Amar Kahvedzic
