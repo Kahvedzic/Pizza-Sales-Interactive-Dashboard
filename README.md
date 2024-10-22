@@ -1,7 +1,6 @@
 # Pizza Sales Interactive Dashboard (Tableau)
 
- 👉 CLICK LINK FOR TABLEAU PROJECT 👈
-https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1
+Tableau project can be found [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
 👉 DATASET USED FOR PROJECT 👈
 https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9
@@ -25,9 +24,4 @@ The 5 KPI's tracked:
 - Top 5/bottom 5 pizzas sold by pizzas sold
 - Top 5/bottom 5 pizzas by total orders
 
- 👉 CLICK LINK FOR TABLEAU PROJECT 👈
-https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1
-
-👉 DATASET USED FOR PROJECT 👈
-https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9
 
