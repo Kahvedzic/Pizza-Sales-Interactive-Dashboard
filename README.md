@@ -40,10 +40,25 @@ The pizza sales company sells many different styles of pizza (VEGGIE | CHICKEN |
 
 <img width="413" alt="Screenshot 2024-10-22 at 1 51 49 PM" src="https://github.com/user-attachments/assets/a11e204b-3689-4d11-8004-849b9719c5eb">
 
+Prior to beginning of analysis, familiarization with the dataset was used for quality control.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Interactive dashboard can be found again [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
 Dataset used for project can be found again [here](https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9)
+
 
 # Thank You
 Amar Kahvedzic
