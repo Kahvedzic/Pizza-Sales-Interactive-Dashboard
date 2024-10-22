@@ -44,6 +44,13 @@ Prior to beginning of analysis, familiarization with the dataset was used for qu
 
 <img width="1008" alt="Screenshot 2024-10-22 at 4 38 03 PM" src="https://github.com/user-attachments/assets/fdd75168-732b-497e-a5f1-0f0ae18fc0b0">
 
+* Total revenue  = $817.9K
+* Total average order value = $38.31
+* Total pizzas sold = 49.6K
+* Total orders = 21.4K
+* Average pizzas per order = 2.32
+
+# Insights Deep dive
 
 
 
