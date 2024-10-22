@@ -1,6 +1,10 @@
 # Pizza Sales Interactive Dashboard (Tableau)
 
-Here's a fun interactive dashboard created for pizza sales
+ 👉 CLICK LINK FOR TABLEAU PROJECT 👈
+https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1
+
+👉 DATASET USED FOR PROJECT 👈
+https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9
 
 The 5 KPI's tracked:
 - Total revenue
