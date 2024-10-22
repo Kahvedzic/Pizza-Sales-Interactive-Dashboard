@@ -15,7 +15,7 @@ SQL queries used for data control can be found [here](https://docs.google.com/do
 
 The pizza sales company sells 4 different styles of pizza (VEGGIE | CHICKEN | SUPREME | CLASSIC) and our task is to analyze the data given to us in order to report back an overview of our findings. The timeline will consist of one full year of data from 1/1/2015 - 12/12/2015. 
 
-# The 5 KPI's tracked:
+# KPI's tracked:
 * Total revenue
 * Average order value
 * Total pizzas sold
