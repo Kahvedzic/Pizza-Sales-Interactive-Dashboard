@@ -18,18 +18,6 @@ The pizza sales company sells many different styles of pizza (VEGGIE | CHICKEN |
 * Total orders
 * Average pizza per order
 
-# 1st dashboard will include:
-* Hourly trend for total pizzas sold
-* Weekly trend for total orders
-* Percentage of sales by pizza category
-* Percentage of sales by pizza size,
-* Total orders & pizzas sold by pizza category
-
-# 2nd dashboard will include:
-* Top 5 & bottom 5 pizzas by revenue
-* Top 5 & bottom 5 pizzas by total sold
-* Top 5 & bottom 5 pizzas by total orders
-
 # Data Structure & Initial Checks
 
 <img width="644" alt="Screenshot 2024-10-22 at 1 50 28 PM" src="https://github.com/user-attachments/assets/038c1015-7b74-4f2f-9047-e7414d89afd8">
@@ -45,6 +33,7 @@ Prior to beginning of analysis, familiarization with the dataset was used for qu
 <img width="1008" alt="Screenshot 2024-10-22 at 4 38 03 PM" src="https://github.com/user-attachments/assets/fdd75168-732b-497e-a5f1-0f0ae18fc0b0">
 Overview of findings:
 
+KPI's Tracked:
 * Total revenue  = $817.9K
 * Total average order value = $38.31
 * Total pizzas sold = 49.6K
@@ -55,6 +44,15 @@ Overview of findings:
 
 
 # Insights Deep dive
+
+
+
+
+
+
+
+
+
 
 
 
