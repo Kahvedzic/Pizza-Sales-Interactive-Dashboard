@@ -2,7 +2,7 @@
 
 Interactive dashboard can be found [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
-Dataset used for project can be found [here](https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9)
+Dataset used for project can be found [here](https://docs.google.com/spreadsheets/d/1I0fWfH5Y0XrB2wbKOXoQ0u1l9wWvxYmwG6TmqssOaps/edit?usp=sharing)
 
 SQL queries used for data control can be found [here](https://docs.google.com/document/d/1i-iG_KklrOa7zNSoAp-heVaEz9rPzpAw9HocZ5sDI9A/edit?tab=t.0)
 
