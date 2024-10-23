@@ -15,8 +15,6 @@ The pizza sales company sells many different styles of pizza (VEGGIE | CHICKEN |
 
 <img width="644" alt="Screenshot 2024-10-22 at 1 50 28 PM" src="https://github.com/user-attachments/assets/038c1015-7b74-4f2f-9047-e7414d89afd8">
 
-<img width="413" alt="Screenshot 2024-10-22 at 1 51 49 PM" src="https://github.com/user-attachments/assets/a11e204b-3689-4d11-8004-849b9719c5eb">
-
 Prior to beginning of analysis, familiarization with the dataset was used for quality control.
 
 # Executive Summary
@@ -50,7 +48,20 @@ KPI's Tracked (Category)
 # Classic
 <img width="1051" alt="Screenshot 2024-10-22 at 4 59 55 PM" src="https://github.com/user-attachments/assets/f2706c6d-3936-416e-98a4-c852c47bad39">
 
+# Top & Bottom 5 Pizzas by Total Revenue
 
+<img width="344" alt="Screenshot 2024-10-22 at 7 43 38 PM" src="https://github.com/user-attachments/assets/753c68a3-5d23-43c1-b065-a42528ed0380">
+
+#  Top & Bottom 5 Pizzas by Total Sold
+
+<img width="363" alt="Screenshot 2024-10-22 at 7 43 47 PM" src="https://github.com/user-attachments/assets/89573bc9-19de-48a4-9a4f-185e48b290a7">
+
+ # Top & Bottom 5 Pizzas by Total Orders
+
+ <img width="346" alt="Screenshot 2024-10-22 at 7 43 58 PM" src="https://github.com/user-attachments/assets/dc6214b7-1db7-40d9-b08d-e492ef7ade23">
+
+
+# Conclusion 
 
 
 
