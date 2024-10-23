@@ -64,7 +64,10 @@ KPI's Tracked (Category)
 
 We've identified the top selling pizzas by category as well as the least profitable pizzas. 
 
-<img width="238" alt="Screenshot 2024-10-22 at 7 57 23 PM" src="https://github.com/user-attachments/assets/1b9aefa1-daf1-46a1-bae0-7582f5f6e1b3"> <img width="237" alt="Screenshot 2024-10-22 at 7 57 35 PM" src="https://github.com/user-attachments/assets/ba29bfba-8af9-4fcf-a0fe-1a1e41d5df56"> <img width="239" alt="Screenshot 2024-10-22 at 7 57 50 PM" src="https://github.com/user-attachments/assets/c79b8470-5859-47dd-8e03-d79a2cbd5d38"> <img width="239" alt="Screenshot 2024-10-22 at 7 58 03 PM" src="https://github.com/user-attachments/assets/5835c06a-54c4-426c-a09a-52d49b4a3410">
+<img width="238" alt="Screenshot 2024-10-22 at 7 57 23 PM" src="https://github.com/user-attachments/assets/07b4d479-161d-41b3-935c-230aafe58f3d"> <img width="239" alt="Screenshot 2024-10-22 at 7 57 50 PM" src="https://github.com/user-attachments/assets/699b710b-bcd5-43bc-90f6-935f5f07bfaa">
+
+<img width="237" alt="Screenshot 2024-10-22 at 7 57 35 PM" src="https://github.com/user-attachments/assets/932ddfa5-8993-4650-8640-ab77882fd3c1"> <img width="239" alt="Screenshot 2024-10-22 at 7 58 03 PM" src="https://github.com/user-attachments/assets/099ffd71-fbe3-42ea-8771-fef684cbb488">
+
 
 
 
