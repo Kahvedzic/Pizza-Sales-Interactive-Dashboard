@@ -33,7 +33,7 @@ Prior to beginning of analysis, familiarization with the dataset was used for qu
 <img width="1008" alt="Screenshot 2024-10-22 at 4 38 03 PM" src="https://github.com/user-attachments/assets/fdd75168-732b-497e-a5f1-0f0ae18fc0b0">
 Overview of findings:
 
-KPI's Tracked:
+KPI's Tracked of Total:
 * Total revenue  = $817.9K
 * Total average order value = $38.31
 * Total pizzas sold = 49.6K
@@ -45,11 +45,15 @@ KPI's Tracked:
 
 # Insights Deep dive
 
+KPI's Tracked by Category
 
+<img width="1054" alt="Screenshot 2024-10-22 at 4 59 16 PM" src="https://github.com/user-attachments/assets/8229ab68-cd81-48ad-8c9a-0516e87d79c8">
 
+<img width="1051" alt="Screenshot 2024-10-22 at 4 59 33 PM" src="https://github.com/user-attachments/assets/8a651764-32ec-4725-a0b1-e5de59756860">
 
+<img width="1052" alt="Screenshot 2024-10-22 at 4 59 45 PM" src="https://github.com/user-attachments/assets/15ba8ef0-f5ae-4f6e-ab01-b7a5baa28a0b">
 
-
+<img width="1051" alt="Screenshot 2024-10-22 at 4 59 55 PM" src="https://github.com/user-attachments/assets/f2706c6d-3936-416e-98a4-c852c47bad39">
 
 
 
