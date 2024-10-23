@@ -20,7 +20,7 @@ Prior to beginning of analysis, familiarization with the dataset was used for qu
 # Executive Summary
 Overview of findings:
 
-KPI's Tracked (Total)
+KPI's Tracked (TOTAL)
 * Total revenue  = $817.9K
 * Total average order value = $38.31
 * Total pizzas sold = 49.6K
@@ -32,7 +32,7 @@ KPI's Tracked (Total)
 
 # Insights Deep dive
 
-- KPI's Tracked (Veggie)
+KPI's Tracked (VEGGIE)
 * Total revenue = $193.7K
 * Total average order value = $21.66
 * Total pizzas sold = 11.6K
@@ -41,7 +41,7 @@ KPI's Tracked (Total)
 
 <img width="1054" alt="Screenshot 2024-10-22 at 4 59 16 PM" src="https://github.com/user-attachments/assets/8229ab68-cd81-48ad-8c9a-0516e87d79c8">
 
- KPI's Tracked (Chicken)
+ KPI's Tracked (CHICKEN)
 * Total revenue = $195.9K
 * Total average order value = $22.95
 * Total pizzas sold = 11.1K
@@ -50,7 +50,7 @@ KPI's Tracked (Total)
 
 <img width="1051" alt="Screenshot 2024-10-22 at 4 59 33 PM" src="https://github.com/user-attachments/assets/8a651764-32ec-4725-a0b1-e5de59756860">
 
- KPI's Tracked (Supreme)
+ KPI's Tracked (SUPREME)
 * Total revenue = $208.2K
 * Total average order value = $22.92
 * Total pizzas sold = 12K
@@ -59,7 +59,7 @@ KPI's Tracked (Total)
 
 <img width="1052" alt="Screenshot 2024-10-22 at 4 59 45 PM" src="https://github.com/user-attachments/assets/15ba8ef0-f5ae-4f6e-ab01-b7a5baa28a0b">
 
- KPI's Tracked (Classic)
+ KPI's Tracked (CLASSIC)
 * Total revenue = $220.1K
 * Total average order value = $20.26
 * Total pizzas sold = 14.9K
