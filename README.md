@@ -72,23 +72,9 @@ We've identified the top selling pizzas by category as well as the least profita
 <img width="237" alt="Screenshot 2024-10-22 at 7 57 35 PM" src="https://github.com/user-attachments/assets/932ddfa5-8993-4650-8640-ab77882fd3c1"> <img width="239" alt="Screenshot 2024-10-22 at 8 02 44 PM" src="https://github.com/user-attachments/assets/f8e02348-1c56-4ad9-bc62-fd6c4f5576d7">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Interactive dashboard can be found again [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
-Dataset used for project can be found again [here](https://drive.google.com/drive/folders/1LYGqqerI7YuG9_Y0RXj9qUMVZ8JHzqW9)
+Dataset used for project can be found again [here](https://docs.google.com/spreadsheets/d/1I0fWfH5Y0XrB2wbKOXoQ0u1l9wWvxYmwG6TmqssOaps/edit?usp=sharing)
 
 
 # Thank You
