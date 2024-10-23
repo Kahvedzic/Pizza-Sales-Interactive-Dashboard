@@ -33,8 +33,6 @@ KPI's Tracked (Total)
 * Total orders = 21.4K
 * Average pizzas per order = 2.32
 
-<img width="977" alt="Screenshot 2024-10-22 at 4 53 02 PM" src="https://github.com/user-attachments/assets/9731e4bc-7268-47a6-8f78-9f32d3cd0a78">
-
 
 # Insights Deep dive
 
