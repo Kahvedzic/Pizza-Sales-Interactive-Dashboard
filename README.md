@@ -50,7 +50,10 @@ KPI's Tracked (Category)
 
 # Revenue        |            Sold          |         Orders
 
-<img width="344" alt="Screenshot 2024-10-22 at 7 43 38 PM" src="https://github.com/user-attachments/assets/753c68a3-5d23-43c1-b065-a42528ed0380"> <img width="363" alt="Screenshot 2024-10-22 at 7 43 47 PM" src="https://github.com/user-attachments/assets/89573bc9-19de-48a4-9a4f-185e48b290a7">  <img width="346" alt="Screenshot 2024-10-22 at 7 43 58 PM" src="https://github.com/user-attachments/assets/dc6214b7-1db7-40d9-b08d-e492ef7ade23">
+<img width="336" alt="Screenshot 2024-10-22 at 8 09 58 PM" src="https://github.com/user-attachments/assets/b333b842-8d31-4d8d-9130-071545323cde"> <img width="358" alt="Screenshot 2024-10-22 at 8 10 14 PM" src="https://github.com/user-attachments/assets/615e0ba4-f297-4565-9db0-59ee67f36319"> <img width="330" alt="Screenshot 2024-10-22 at 8 10 31 PM" src="https://github.com/user-attachments/assets/e1185c58-d66b-4bd5-a6b4-6d5b779508c8">
+
+
+
 
 
 # Conclusion 
