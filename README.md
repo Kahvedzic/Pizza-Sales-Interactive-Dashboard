@@ -35,15 +35,43 @@ KPI's Tracked (Total)
 KPI's Tracked (Category)
 
 # Veggie
+
+Total revenue = $193.7K
+Total average order value = $21.66
+Total pizzas sold = 11.6K
+Total orders = 8.9K
+Average pizzas per order = 1.3
+
 <img width="1054" alt="Screenshot 2024-10-22 at 4 59 16 PM" src="https://github.com/user-attachments/assets/8229ab68-cd81-48ad-8c9a-0516e87d79c8">
 
 # Chicken
+
+Total revenue = $195.9K
+Total average order value = $22.95
+Total pizzas sold = 11.1K
+Total orders = 8.5K
+Average pizzas per order = 1.29
+
 <img width="1051" alt="Screenshot 2024-10-22 at 4 59 33 PM" src="https://github.com/user-attachments/assets/8a651764-32ec-4725-a0b1-e5de59756860">
 
 # Supreme
+
+Total revenue = $208.2K
+Total average order value = $22.92
+Total pizzas sold = 12K
+Total orders = 9.1K
+Average pizzas per order = 1.32
+
 <img width="1052" alt="Screenshot 2024-10-22 at 4 59 45 PM" src="https://github.com/user-attachments/assets/15ba8ef0-f5ae-4f6e-ab01-b7a5baa28a0b">
 
 # Classic
+
+Total revenue = $220.1K
+Total average order value = $20.26
+Total pizzas sold = 14.9K
+Total orders = 10.9K
+Average pizzas per order = 1.37
+
 <img width="1051" alt="Screenshot 2024-10-22 at 4 59 55 PM" src="https://github.com/user-attachments/assets/f2706c6d-3936-416e-98a4-c852c47bad39">
 
 
