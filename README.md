@@ -92,7 +92,14 @@ KPI's Tracked (Category)
 
 # Conclusion 
 
-We've identified the top selling pizzas by category as well as the least profitable pizzas. 
+After our analysis, we have discovered the following:
+
+* Classic category produced the most revenue, total orders, and total sold
+* Large pizza size produced the most revenue
+* Thai chicken pizza produced the most revenue
+* Classic deluxe pizza produced the most quantities sold & total orders
+* Brie deluxe pizza produced the least revenue
+* Brie carre pizza produced the least sold & total orders
 
 <img width="238" alt="Screenshot 2024-10-22 at 7 57 23 PM" src="https://github.com/user-attachments/assets/07b4d479-161d-41b3-935c-230aafe58f3d"> <img width="239" alt="Screenshot 2024-10-22 at 8 00 50 PM" src="https://github.com/user-attachments/assets/6c5dbf0e-bc14-4e59-82be-e43e378db972">
 
