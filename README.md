@@ -80,10 +80,6 @@ KPI's Tracked (VEGGIE)
 
 <img width="330" alt="Screenshot 2024-10-22 at 8 10 31 PM" src="https://github.com/user-attachments/assets/e1185c58-d66b-4bd5-a6b4-6d5b779508c8">
 
-
-
-
-
 # Conclusion 
 
 After our analysis, we have discovered the following:
