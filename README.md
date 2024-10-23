@@ -64,7 +64,11 @@ KPI's Tracked (Category)
 
 We've identified the top selling pizzas by category as well as the least profitable pizzas. 
 
-<img width="236" alt="Screenshot 2024-10-22 at 7 52 03 PM" src="https://github.com/user-attachments/assets/4dc474c0-0074-4db7-b094-7f259d336df9"> <img width="240" alt="Screenshot 2024-10-22 at 7 52 42 PM" src="https://github.com/user-attachments/assets/f45c818c-e234-44d0-b31a-ff921bd2c12f"> <img width="221" alt="Screenshot 2024-10-22 at 7 53 07 PM" src="https://github.com/user-attachments/assets/535bd42b-abcb-49ca-9b2c-ddf7057d6845">
+<img width="238" alt="Screenshot 2024-10-22 at 7 57 23 PM" src="https://github.com/user-attachments/assets/1b9aefa1-daf1-46a1-bae0-7582f5f6e1b3"> <img width="237" alt="Screenshot 2024-10-22 at 7 57 35 PM" src="https://github.com/user-attachments/assets/ba29bfba-8af9-4fcf-a0fe-1a1e41d5df56"> <img width="239" alt="Screenshot 2024-10-22 at 7 57 50 PM" src="https://github.com/user-attachments/assets/c79b8470-5859-47dd-8e03-d79a2cbd5d38"> <img width="239" alt="Screenshot 2024-10-22 at 7 58 03 PM" src="https://github.com/user-attachments/assets/5835c06a-54c4-426c-a09a-52d49b4a3410">
+
+
+
+
 
 
 
