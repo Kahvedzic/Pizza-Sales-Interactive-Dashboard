@@ -21,7 +21,6 @@ Prior to beginning of analysis, familiarization with the dataset was used for qu
 
 <img width="1011" alt="Screenshot 2024-10-22 at 4 37 52 PM" src="https://github.com/user-attachments/assets/fd7e3c4a-4838-4d26-b3a6-a148874d417a">
 
-<img width="1008" alt="Screenshot 2024-10-22 at 4 38 03 PM" src="https://github.com/user-attachments/assets/fdd75168-732b-497e-a5f1-0f0ae18fc0b0">
 Overview of findings:
 
 KPI's Tracked (Total)
