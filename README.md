@@ -74,6 +74,7 @@ Top & Bottom 5 Pizzas By Total Revenue
 <img width="336" alt="Screenshot 2024-10-22 at 8 09 58 PM" src="https://github.com/user-attachments/assets/b333b842-8d31-4d8d-9130-071545323cde"> 
 
 Top & Bottom 5 Pizzas By Total Sold
+
 <img width="358" alt="Screenshot 2024-10-22 at 8 10 14 PM" src="https://github.com/user-attachments/assets/615e0ba4-f297-4565-9db0-59ee67f36319">
 
 Top & Bottom 5 Pizzas By Total Orders
