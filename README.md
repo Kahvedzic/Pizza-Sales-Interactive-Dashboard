@@ -18,9 +18,6 @@ The pizza sales company sells many different styles of pizza (VEGGIE | CHICKEN |
 Prior to beginning of analysis, familiarization with the dataset was used for quality control.
 
 # Executive Summary
-
-<img width="1011" alt="Screenshot 2024-10-22 at 4 37 52 PM" src="https://github.com/user-attachments/assets/fd7e3c4a-4838-4d26-b3a6-a148874d417a">
-
 Overview of findings:
 
 KPI's Tracked (Total)
@@ -29,6 +26,8 @@ KPI's Tracked (Total)
 * Total pizzas sold = 49.6K
 * Total orders = 21.4K
 * Average pizzas per order = 2.32
+* 
+<img width="1011" alt="Screenshot 2024-10-22 at 4 37 52 PM" src="https://github.com/user-attachments/assets/fd7e3c4a-4838-4d26-b3a6-a148874d417a">
 
 
 # Insights Deep dive
@@ -47,9 +46,11 @@ KPI's Tracked (Category)
 # Classic
 <img width="1051" alt="Screenshot 2024-10-22 at 4 59 55 PM" src="https://github.com/user-attachments/assets/f2706c6d-3936-416e-98a4-c852c47bad39">
 
-# Top & Bottom 5 Pizzas by Total Revenue
+# Top & Bottom 5 Pizzas
 
-<img width="344" alt="Screenshot 2024-10-22 at 7 43 38 PM" src="https://github.com/user-attachments/assets/753c68a3-5d23-43c1-b065-a42528ed0380">
+# By Revenue        | By Total Sold 
+
+<img width="344" alt="Screenshot 2024-10-22 at 7 43 38 PM" src="https://github.com/user-attachments/assets/753c68a3-5d23-43c1-b065-a42528ed0380"> <img width="363" alt="Screenshot 2024-10-22 at 7 43 47 PM" src="https://github.com/user-attachments/assets/89573bc9-19de-48a4-9a4f-185e48b290a7">
 
 #  Top & Bottom 5 Pizzas by Total Sold
 
