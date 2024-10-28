@@ -1,5 +1,7 @@
 # Pizza Sales Interactive Dashboard (Tableau)
 
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
+
 Interactive dashboard can be found [here](https://public.tableau.com/app/profile/amar.kahvedzic/viz/PizzaSales_17236179160070/Dashboard1)
 
 Dataset used for project can be found [here](https://docs.google.com/spreadsheets/d/1I0fWfH5Y0XrB2wbKOXoQ0u1l9wWvxYmwG6TmqssOaps/edit?usp=sharing)
@@ -102,6 +104,8 @@ Interactive dashboard can be found again [here](https://public.tableau.com/app/p
 
 Dataset used for project can be found again [here](https://docs.google.com/spreadsheets/d/1I0fWfH5Y0XrB2wbKOXoQ0u1l9wWvxYmwG6TmqssOaps/edit?usp=sharing)
 
-
 # Thank You
+
+[LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
+
 Amar Kahvedzic
