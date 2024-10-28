@@ -1,4 +1,4 @@
-# Pizza Sales Interactive Dashboard | Tableau + SQL
+# Pizza Sales Interactive Dashboard | SQL & Tableau
 
 [LinkedIn](https://www.linkedin.com/in/amar-kahvedzic-20a02414a/)
 
